@@ -1,7 +1,7 @@
 # 🤖 NLP Chatbot with Flask 
 
 This project is an **AI-powered chatbot** built using **Transformers (DistilBERT)** for **intent recognition**.  
-It is deployed as a **Flask API** and integrated with **Telegram** to provide real-time responses.
+It is deployed as a **Flask API** 
 
 ---
 
