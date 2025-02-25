@@ -7,8 +7,7 @@ It is deployed as a **Flask API** and integrated with **Telegram** to provide re
 
 ## 🚀 Features
 ✅ **Natural Language Processing (NLP)** for intent recognition  
-✅ **Flask API** to process chatbot requests  
-✅ **Telegram Bot** for real-time interaction  
+✅ **Flask API** to process chatbot requests   
 ✅ **Pretrained DistilBERT model** for better accuracy  
 ✅ **Easily expandable** with new intents 
 
